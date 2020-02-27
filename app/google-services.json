@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105475837572",
+    "firebase_url": "https://socialapp-cd993.firebaseio.com",
+    "project_id": "socialapp-cd993",
+    "storage_bucket": "socialapp-cd993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105475837572:android:e59e5c2429b1945a7d7cd1",
+        "android_client_info": {
+          "package_name": "com.opriday.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105475837572-1dm82h77j5sn6al6nkg5pefrqlk9qrne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opriday.socialapp",
+            "certificate_hash": "dc041e404608b51a0974283ba721acb5cc16fb9a"
+          }
+        },
+        {
+          "client_id": "105475837572-1utcce81b5036c615r9hq17el1q6hf5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtbHbubg-8kzbwUA2PEm6LlHZ2VQ8BMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105475837572-1utcce81b5036c615r9hq17el1q6hf5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
